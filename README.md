@@ -10,9 +10,6 @@ Realizei esse exercício para treinar o uso de "import" e "export" entre módulo
   - Inclusão de números
   - Inclusão de símbolos
 
-
-Através deste exercício, explorei como a modularização em JavaScript pode ser aplicada para organizar melhor o código e separar responsabilidades.
-
 ## Link:
 
 [clique aqui para ver o projeto!](https://lauluah.github.io/Gerador-Senha/)
