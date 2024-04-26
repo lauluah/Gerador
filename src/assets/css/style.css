@@ -1,6 +1,6 @@
 :root {
-  --primary-color: rgb(17, 86, 102);
-  --primary-color-darker: rgb(9, 48, 56);
+  --primary-color: rgb(0, 7, 8);
+  --primary-color-darker: rgb(100, 101, 102, 0.579);
 }
 
 * {
